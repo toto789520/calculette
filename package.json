@@ -1,0 +1,23 @@
+{
+  "name": "calculette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toto789520/calculette.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toto789520/calculette/issues"
+  },
+  "homepage": "https://github.com/toto789520/calculette#readme",
+  "dependencies": {
+    "electron": "^15.3.0"
+  }
+}
